@@ -33,12 +33,14 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Editor & Terminal**
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **OS & Environment**
 
@@ -47,13 +49,14 @@
 ![GlazeWM](https://img.shields.io/badge/GlazeWM-tiling_WM-1a1b26?style=flat-square)
 ![Windhawk](https://img.shields.io/badge/Windhawk-customization-1a1b26?style=flat-square)
 
+
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 **Email:** [thomaspolchies0305@gmail.com](mailto:thomaspolchies0305@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/thomas-polchies)
-- 🐙 **GitHub:** [@YOUR-USERNAME](https://github.com/ThomasPolchies-719)
+- 🐙 **GitHub:** [@ThomasPolchies-719](https://github.com/ThomasPolchies-719)
 
 > Open to internship opportunities, collaboration on projects, and CTF teams. Feel free to reach out!
 
